@@ -1,0 +1,7 @@
+customer_id,customer_name,kyc_status,balance,missing_name,invalid_kyc,negative_balance,duplicate_customer_id
+101,Amit,Completed,50000,False,False,False,False
+102,Rahul,Pending,75000,False,False,False,False
+103,Priya,Completed,120000,False,False,False,False
+104,Rohit,Rejected,30000,False,False,False,False
+107,Arjun,Completed,80000,False,False,False,False
+108,Sneha,Pending,60000,False,False,False,False

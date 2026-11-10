@@ -1,0 +1,5 @@
+customer_id,customer_name,kyc_status,balance,missing_name,invalid_kyc,negative_balance,duplicate_customer_id
+105,,Completed,45000,True,False,False,False
+106,Neha,Unknown,-5000,False,True,True,False
+109,Vikram,Completed,95000,False,False,False,True
+109,Vikram,Completed,95000,False,False,False,True

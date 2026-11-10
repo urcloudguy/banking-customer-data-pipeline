@@ -1,0 +1,11 @@
+customer_id,customer_name,kyc_status,balance
+101,Amit,Completed,50000
+102,Rahul,Pending,75000
+103,Priya,Completed,120000
+104,Rohit,Rejected,30000
+105,,Completed,45000
+106,Neha,Unknown,-5000
+107,Arjun,Completed,80000
+108,Sneha,Pending,60000
+109,Vikram,Completed,95000
+109,Vikram,Completed,95000
